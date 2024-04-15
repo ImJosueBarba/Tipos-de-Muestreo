@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Proyecto Probabilidad Estadistica</name>
+    </assembly>
+    <members>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Integrans.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Integrans.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Integrans.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proyecto_Probabilidad_Estadistica.Principal.components">
+            <summary>
+            Variable del diseñador necesaria.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Principal.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén usando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Principal.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido de este método con el editor de código.
+            </summary>
+        </member>
+        <member name="M:Proyecto_Probabilidad_Estadistica.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:Proyecto_Probabilidad_Estadistica.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._068minimize_100011">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._1b247349_eb17_44c6_a6c7_8469f962ac00__1_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._1b247349_eb17_44c6_a6c7_8469f962ac00__2_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._4b9ddbc7_de76_4790_bab0_890d5adc8a79">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._5_icon_icons_com_67658">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._51c332da_e29d_44ca_bf70_daa7e3fe5288__1_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources._6_icon_icons_com_67661">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.business_diagram_report_analytics_statistics_graph_statistic_icon_226217">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.business_diagram_report_analytics_statistics_graph_statistic_icon_226217__2_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Capin">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Carrillo">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Elkin">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.ic_cancel_97589">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.IconPastel">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.integran">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.joan">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Limones">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.maximize_icon_143740">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.minimize_118918">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.piechart_icon_icons_com_71902">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.UAIC_3_1">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.UAIC_3_1__1_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.UAIC_3_1__1_1">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Universidad_Tecnica_de_Machala_removebg_preview">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.UTMACH">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.vi">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.Yo">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Proyecto_Probabilidad_Estadistica.Properties.Resources.zyro_image">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

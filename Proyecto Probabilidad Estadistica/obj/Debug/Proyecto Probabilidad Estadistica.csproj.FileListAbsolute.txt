@@ -1,0 +1,110 @@
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\PC\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Elkin\OneDrive\Documentos\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.resources
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Elkin\Music\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Integrans.resources
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.CodeAnalysisLog.xml
+C:\Users\Usuario\Downloads\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.lastcodeanalysissucceeded
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.CodeAnalysisLog.xml
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.lastcodeanalysissucceeded
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Integrans.resources
+C:\Users\USER\source\repos\Unidad 1\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.xml
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Integrans.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.xml
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.CodeAnalysisLog.xml
+C:\Users\USUARIO\Desktop\PE\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.lastcodeanalysissucceeded
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.config
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.xml
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.pdb
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.CodeAnalysisLog.xml
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\bin\Debug\Proyecto Probabilidad Estadistica.exe.lastcodeanalysissucceeded
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Integrans.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Simple.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Aleatorio_Sistematico.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Conglomerado.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Muestreo_Estratificado.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Principal.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto_Probabilidad_Estadistica.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.exe
+C:\Users\USUARIO\Desktop\NAOMI\Proyecto Probabilidad Estadistica\Proyecto Probabilidad Estadistica\obj\Debug\Proyecto Probabilidad Estadistica.pdb
